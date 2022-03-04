@@ -291,6 +291,9 @@ footer {
     font-size: 1.8rem;
     font-weight: 400;
 }
+.footer-info li a:hover {
+    color: var(--Dark-Grayish-Blue);
+}
 .footer-social__media {
     display: flex;
     flex-direction: row;
